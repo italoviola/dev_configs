@@ -1,3 +1,5 @@
+# To help styling: https://www.cyberciti.biz/faq/bash-shell-change-the-color-of-my-shell-prompt-under-linux-or-unix/
+
 ### Terminal styles
 
 parse_git_branch() {
